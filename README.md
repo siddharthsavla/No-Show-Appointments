@@ -8,5 +8,5 @@ This repository contains:
 - HTML version of the report "No Show Appointments.html"
 - iPython notebook - used to generate the report "No Show Appointments.ipynb"
 
-An online version of the report can be viewed here: [Online Report](https://github.com/siddharthsavla/No-Show-Appointments/blob/master/No%20Show%20Appointments.html)
+
 
